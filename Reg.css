@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+.email{
+    position: relative;
+    top: 100px;
+    color: black;
+    background-color: #5d00ff;
+    input:invalid{
+        color: red;
+    }
+    
+}
+.password{
+    position: relative;
+    top: 140px;
+    color: black;
+    background-color: #5d00ff;
+    input:invalid{
+        color: red;
+    }
+}
